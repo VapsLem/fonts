@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Bacalisties";
+  src:
+    url("https://vapotech.fr/wp-content/uploads/2024/fonts/Bacalisties.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Brightwall";
+  src:
+    url("https://vapotech.fr/wp-content/uploads/2024/fonts/Brightwall.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Rocksill";
+  src:
+    url("https://vapotech.fr/wp-content/uploads/2024/fonts/Rocksill.otf") format("opentype");
+}
+@font-face {
+  font-family: "Redrock";
+  src:
+    url("https://vapotech.fr/wp-content/uploads/2024/fonts/Redrock.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Bebas-Regular";
+  src:
+    url("https://vapotech.fr/wp-content/uploads/2024/fonts/Bebas-Regular.otf") format("opentype");
+}
